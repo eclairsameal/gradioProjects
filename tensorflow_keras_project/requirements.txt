@@ -1,0 +1,5 @@
+transformers[sentencepiece]
+gradio
+h5py
+tensorflow
+tf-keras

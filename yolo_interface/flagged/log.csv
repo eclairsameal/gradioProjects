@@ -1,0 +1,3 @@
+Upload Image,Confidence threshold,IoU threshold,Result,flag,username,timestamp
+flagged/Upload Image/e8615b310f92712241d3/Nlc-scr-1.webp,0.25,0.88,flagged/Result/38b04ee8c2476398e27d/image.webp,,,2024-04-24 02:34:46.880800
+flagged/Upload Image/e16ef18c28598e069a43/watchdog.jpeg,0.7,0.45,flagged/Result/365ef0839739c57cb58b/image.webp,,,2024-04-24 02:57:07.484136
