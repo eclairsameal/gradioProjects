@@ -69,14 +69,14 @@ def bot(
         top_p=top_p)
 
     if image_prompt is None:
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-1.5-flash-001')
         response = model.generate_content(
             text_prompt,
             stream=True,
             generation_config=generation_config)
         response.resolve()
     else:
-        model = genai.GenerativeModel('gemini-pro-vision')
+        model = genai.GenerativeModel('gemini-1.5-flash-001')
         response = model.generate_content(
             [text_prompt, image_prompt],
             stream=True,
