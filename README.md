@@ -12,7 +12,9 @@ docker run -it --name gradio_env_projects -p 7880:7880 -d -v $(pwd):/app gradio_
 
 ## Gemini Project
 
-[Gemini API](https://ai.google.dev/?gad_source=1&gclid=CjwKCAjww_iwBhApEiwAuG6ccFMl8dbbBnP8jX9QP7KdmJTG1z269c11KuOsG2vYaIOWtLayUTp_zBoCuPgQAvD_BwE)
+![picture or gif url](https://github.com/eclairsameal/gradioProjects/blob/main/images/Gemini_Interface.png)
+
+[Gemini API](images/Gemini_Interface.png)
 
 Create a file named config.ini in the gemini_env folder.
 
