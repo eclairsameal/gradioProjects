@@ -42,6 +42,8 @@ python main.py
 
 [YOLO](https://docs.ultralytics.com/zh)
 
+![picture or gif url](https://github.com/eclairsameal/gradioProjects/blob/main/images/YOLOv8.png)
+
 Confidence threshold:
 
 IoU（Intersection over Union）threshold:
